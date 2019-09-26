@@ -1,0 +1,2 @@
+# TextOCR
+使用Objective-c开发的一个图片文字OCR中文和英文识别app，使用交叉编译tesseract和leptonica框架实现

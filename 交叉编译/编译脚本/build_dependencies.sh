@@ -1,7 +1,7 @@
 #!/bin/sh
 # build.sh
-# @author ÍõÃ÷·²
-# @version v1.0.0 ´´½¨Ê±¼ä2013Äê
+# @author çŽ‹æ˜Žå‡¡
+# @version v1.0.0 åˆ›å»ºæ—¶é—´2013å¹´
 
 GLOBAL_OUTDIR="`pwd`/dependencies"
 LOCAL_OUTDIR="./outdir"

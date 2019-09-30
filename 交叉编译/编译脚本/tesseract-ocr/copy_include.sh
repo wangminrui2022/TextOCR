@@ -1,6 +1,6 @@
 #!/bin/sh
-# @author ÍõÃ÷·²
-# @version v1.0.0 ´´½¨Ê±¼ä2013Äê
+# @author çŽ‹æ˜Žå‡¡
+# @version v1.0.0 åˆ›å»ºæ—¶é—´2013å¹´
 
 tess_inc=( api/apitypes.h api/baseapi.h ccmain/thresholder.h ccstruct/publictypes.h ccutil/errcode.h
            ccutil/genericvector.h ccutil/helpers.h ccutil/host.h ccutil/ndminx.h ccutil/ocrclass.h

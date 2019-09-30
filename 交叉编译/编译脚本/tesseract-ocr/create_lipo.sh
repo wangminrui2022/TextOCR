@@ -1,5 +1,5 @@
 #!/bin/sh
-# @author ÍõÃ÷·²
-# @version v1.0.0 ´´½¨Ê±¼ä2013Äê
+# @author ç‹æ˜å‡¡
+# @version v1.0.0 åˆ›å»ºæ—¶é—´2013å¹´
 
 lipo -create arm7/libtesseract_all.a arm7s/libtesseract_all.a i386/libtesseract_all.a  -output ../lib/libtesseract_all.a
